@@ -32,6 +32,17 @@
 
 [Maciejowski - Predictive Control With Constraints](http://amzn.to/2dKS0PK)
 
-### Slides
 
+### Slides
 [georgia tech](http://cepac.cheme.cmu.edu/pasilectures/lee/LecturenoteonMPC-JHL.pdf)
+
+Course Notes:
+
+[C21 Model predictive control](http://www.eng.ox.ac.uk/~conmrc/mpc/index.html)
+
+### Without step testing
+
+[Use Model-Predictive Control to Improve Distillation Operations](http://chem.engr.utc.edu/Student-files/x2008-Sp/328-Whole/Model-control-CEP.pdf)
+
+[Large-Scale Adaptive Multivariable Controllers Eliminate Step Tests and Maximize Profit](http://www.nt.ntnu.no/users/skoge/prost/proceedings/aiche-2006/data/papers/P62939.pdf)
+
